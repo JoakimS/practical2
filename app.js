@@ -4,7 +4,7 @@ const port = 5000
 
 
 app.get('/home', (req, res) => {
-    res.send('first page!')
+    res.send('second page!')
 }
 )
 
